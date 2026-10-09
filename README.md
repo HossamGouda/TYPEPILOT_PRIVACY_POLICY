@@ -28,3 +28,5 @@ TypePilot is local-first. Your snippets are stored in your browser, typed text i
 ## Support
 
 If you have any questions or need assistance while using TypePilot, please reach out via email at [hos.gouda90@gmail.com](mailto:hos.gouda90@gmail.com).
+
+To report a bug or suggest a feature, [open an issue](https://github.com/HossamGouda/TYPEPILOT_PRIVACY_POLICY/issues/new/choose).
