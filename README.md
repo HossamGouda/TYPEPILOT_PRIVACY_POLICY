@@ -17,7 +17,7 @@
 ## How to Use
 
 1. **Install the Extension:** Add TypePilot to Chrome from the Chrome Web Store.
-2. **Create a Snippet:** Open the popup (or press `Ctrl+Shift+Space`), click **New snippet**, and give it a trigger and text.
+2. **Create a Snippet:** Open the popup, click **New snippet**, and give it a trigger and text.
 3. **Type the Trigger:** Type the trigger in any text field on a web page.
 4. **Fill In Forms:** If the snippet has form fields, fill them in and TypePilot inserts the finished text.
 
